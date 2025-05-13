@@ -1,4 +1,4 @@
-# 📄 Curriculum Vitae - Desarrollador Full Stack Junior 💻
+# 📄 Curriculum - Desarrollador Full Stack Junior 💻
 
 👤 **Nombre:** [Samir Ahmed Jr Mazloum Mosquera]  
 🌍 **Ubicación:** [Medellín, Colombia]  
