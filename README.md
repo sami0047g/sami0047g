@@ -1,9 +1,9 @@
 # 📄 Curriculum Vitae - Desarrollador Full Stack Junior 💻
 
-👤 **Nombre:** [Tu Nombre]  
-🌍 **Ubicación:** [Tu Ciudad, País]  
-📧 **Email:** [tuemail@ejemplo.com]  
-📱 **WhatsApp:** +XX XXXXXXXXX  
+👤 **Nombre:** [Samir Ahmed Jr Mazloum Mosquera]  
+🌍 **Ubicación:** [Medellín, Colombia]  
+📧 **Email:** [samirahmedmazloum@gmail.com]  
+📱 **WhatsApp:** +57 3025863336
 🐙 **GitHub:** [sami0047g](https://github.com/sami0047g)  
 
 ---
