@@ -40,10 +40,9 @@ Soy un desarrollador junior con conocimientos en desarrollo web full stack. He t
 ## 🧪 Proyectos
 
 - 🧱 Sistema de registro de usuarios en C# (WinForms)
-- 🚀 CRUD básico con Django y login personalizado
+- 🚀 CRUD con Django y login personalizado
 - 🎨 Landing page responsive con HTML, CSS y JS
 - 📚 Blog con Laravel + autenticación y roles
-- 🔐 Formulario de login en PHP con validación y sesiones
 
 ---
 
