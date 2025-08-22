@@ -50,10 +50,11 @@ Apasionado por el desarrollo de software con conocimientos en backend, frontend 
 
 ## 📈 Actividad en GitHub
 
-- [Perfil de GitHub](https://github.com/sami0047g)  
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sami0047g&show_icons=true&theme=radical)
+![Contribuciones](https://ghchart.rshah.org/sami0047g)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sami0047g&show_icons=true&theme=dark)
 
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=sami0047g&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
+
+
 
 ---
 
