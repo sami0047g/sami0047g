@@ -51,8 +51,9 @@ Apasionado por el desarrollo de software con conocimientos en backend, frontend 
 ## 📈 Actividad en GitHub
 
 - [Perfil de GitHub](https://github.com/sami0047g)  
-- Commits, contribuciones y repositorios disponibles como evidencia de aprendizaje continuo y práctica en proyectos.
-- Exploración de repositorios en tecnologías backend y frontend  
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sami0047g&show_icons=true&theme=radical)
+
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=sami0047g&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
 
 ---
 
