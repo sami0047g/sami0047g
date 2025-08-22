@@ -1,66 +1,61 @@
-# 📄 Curriculum - Desarrollador Full Stack Junior 💻
-
-👤 **Nombre:** [Samir Ahmed Jr Mazloum Mosquera]  
-🌍 **Ubicación:** [Medellín, Colombia]  
-📧 **Email:** [samirahmedmazloum@gmail.com]  
-📱 **WhatsApp:** +57 3025863336
-🐙 **GitHub:** [sami0047g](https://github.com/sami0047g)  
+# 📌 Currículum Técnico – [Tu Nombre Completo]
 
 ---
 
-## 🧠 Sobre Mí
-
-Soy un desarrollador junior con conocimientos en desarrollo web full stack. He trabajado en pequeños proyectos personales y educativos usando tecnologías modernas del frontend y backend. Me encanta seguir aprendiendo y experimentar con nuevas herramientas. Busco oportunidades para mejorar mis habilidades y crecer profesionalmente.
-
----
-
-## 🛠️ Tecnologías y Lenguajes
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-### 🧩 Programación Orientada a Objetos (POO)
-![OOP](https://img.shields.io/badge/POO-Fundamentos-1f425f?style=flat&logo=codefactor&logoColor=white)
-- Aplicada en: C#, Python, PHP
-
-### 🗃️ Base de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## 👨‍💻 Perfil
+Apasionado por el desarrollo de software con conocimientos en backend, frontend y bases de datos. Me encuentro en constante aprendizaje y busco consolidar mi experiencia profesional participando en proyectos reales que me permitan aportar valor, crecer como profesional y ser un apoyo sólido para cualquier equipo de trabajo.
 
 ---
 
-## 🧪 Proyectos
+## 🛠️ Habilidades Técnicas
 
-- 🧱 Sistema de registro de usuarios en C# (WinForms)
-- 🚀 CRUD con Django y login personalizado
-- 🎨 Landing page responsive con HTML, CSS y JS
-- 📚 Blog con Laravel + autenticación y roles
-
----
-
-## 🎯 Objetivo
-
-Seguir aprendiendo y desarrollando habilidades como desarrollador full stack, participar en proyectos reales, y aportar en equipos de desarrollo mientras gano experiencia práctica.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sami0047g&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sami0047g&layout=compact&theme=radical)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) **HTML5**  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff) **CSS3**  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) **JavaScript (Básico)**  
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) **Python (Intermedio)**  
+- ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff) **Django (Intermedio)**  
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) **MySQL**  
+- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff) **Java (Básico)**  
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) **Spring Boot (Básico)**  
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff) **PHP (Básico)**  
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff) **Laravel (Básico)**  
 
 ---
 
-## 🔗 Enlaces
+## 📚 Formación y Cursos
 
-- 🔗 [GitHub - sami0047g](https://github.com/sami0047g)
-- 🔗 [LinkedIn - linkedin.com/in/tuusuario] *(opcional si tienes)*
+- **Maestría en Java – Udemy (En curso, finalización prevista: dic 2025)**  
+  Fundamentos, POO, colecciones, excepciones y proyectos prácticos.  
+
+- **Desarrollo Web con JavaScript, TypeScript, jQuery y Node.js – Udemy (En curso)**  
+  Fundamentos de JS, manipulación del DOM, asincronía, desarrollo con TS y Node.js.  
+
+- **Curso completo de C# – Udemy (En curso)**  
+  Fundamentos de C#, POO y manejo de datos.  
+
+- **Fundamentos de C++ – Udemy (En curso)**  
+  Sintaxis básica, estructuras y lógica de programación.
+
+---
+
+## 📂 Proyectos
+
+- **[Nombre del Proyecto]** – [Repositorio](link)  
+  Breve descripción del proyecto: tecnologías usadas, problema resuelto, funcionalidades principales.  
+
+- **[API con Spring Boot]** – [Repositorio](link)  
+  Creación de API REST con endpoints básicos para [describir funcionalidad].  
+
+---
+
+## 📈 Actividad en GitHub
+
+- [Perfil de GitHub](https://github.com/sami0047g)  
+- Commits, contribuciones y repositorios disponibles como evidencia de aprendizaje continuo y práctica en proyectos.
+- Exploración de repositorios en tecnologías backend y frontend  
+
+---
+
+## 🎯 Objetivo Profesional
+Convertirme en un desarrollador **versátil y confiable**, capaz de adaptarme a cualquier lenguaje o entorno de trabajo. Mi meta es ser un pilar en el crecimiento de las empresas en las que participe, aportando soluciones eficientes, escalables y de impacto real.  
 
