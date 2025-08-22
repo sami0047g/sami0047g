@@ -46,13 +46,6 @@ Apasionado por el desarrollo de software con conocimientos en backend, frontend 
 - **[API con Spring Boot]** – [Repositorio](link)  
   Creación de API REST con endpoints básicos para [describir funcionalidad].  
 
----
-
-## 📈 Actividad en GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sami0047g&show_icons=true&theme=dark)
-
-
-
 
 ---
 
