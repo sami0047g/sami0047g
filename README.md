@@ -1,4 +1,4 @@
-# 📌 Currículum Técnico – [Tu Nombre Completo]
+  # 📌 Currículum Técnico – [Tu Nombre Completo]
 
 ---
 
@@ -40,8 +40,11 @@ Apasionado por el desarrollo de software con conocimientos en backend, frontend 
 
 ## 📂 Proyectos
 
-- **[Nombre del Proyecto]** – [Login](https://sami0047g.github.io/inicio-sesion-animado/)  
-  Breve descripción del proyecto: tecnologías usadas, problema resuelto, funcionalidades principales.  
+# Inicio de sesion animado 🚀
+# Descripcion
+-Formulario de inicio de sesión y registro con animaciones fluidas en HTML, CSS y JavaScript. Incluye transiciones dinámicas entre las vistas de login y registro mediante un solo botón.
+
+👉 [Login](https://sami0047g.github.io/inicio-sesion-animado/)
 
 - **[API con Spring Boot]** – [Repositorio](link)  
   Creación de API REST con endpoints básicos para [describir funcionalidad].  
