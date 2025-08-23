@@ -40,18 +40,29 @@ Apasionado por el desarrollo de software con conocimientos en backend, frontend 
 
 ## 📂 Proyectos
 
-# Inicio de sesion animado 🚀
-[Repositorio](https://github.com/sami0047g/inicio-sesion-animado)
-- **Descripcion**
--Formulario de inicio de sesión y registro con animaciones fluidas en HTML, CSS y JavaScript. Incluye transiciones dinámicas entre las vistas de login y registro mediante un solo botón.
+# 1️⃣ Inicio de sesión animado 🚀
+[Repositorio](https://github.com/sami0047g/inicio-sesion-animado) | [Demo](https://sami0047g.github.io/inicio-sesion-animado/)  
+Formulario de inicio de sesión y registro con animaciones fluidas en **HTML, CSS y JavaScript**.  
+Incluye transiciones dinámicas entre las vistas de login y registro mediante un solo botón.  
 
-👉 [Login](https://sami0047g.github.io/inicio-sesion-animado/)
+---
 
+# 2️⃣ Ejercicio de API para registrar usuarios 🛠️
+[Repositorio](https://github.com/sami0047g/api-usuarios-springboot)  
+API REST construida con **Spring Boot** para registrar usuarios en memoria.  
+Permite agregar nuevos usuarios mediante un endpoint `POST` y consultarlos con un `GET`.  
+Probada con **Postman**.  
 
-- # Ejercicio de API para registrar usuarios
-- [Repositorio](link)
-- 
-  Creación de API REST con endpoints básicos para [describir funcionalidad].
+---
+
+# 3️⃣ API Calculadora con Spring Boot 🧮
+[Repositorio](https://github.com/sami0047g/springboot-calculadora-api)  
+API REST desarrollada con **Spring Boot** que implementa operaciones matemáticas básicas (**suma, resta, multiplicación y división**) utilizando diferentes métodos HTTP.  
+Incluye respuestas multilenguaje en la suma según header `Lenguaje` (`es` o `en`).  
+Probada con **Postman**.  
+
+---
+
 
 
 ---
