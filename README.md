@@ -1,4 +1,4 @@
-  # 📌 Currículum Técnico – [Tu Nombre Completo]
+  # 📌 Currículum Técnico – [Samir Ahmed Jr Mazzloum Mosquera]
 
 ---
 
@@ -41,13 +41,17 @@ Apasionado por el desarrollo de software con conocimientos en backend, frontend 
 ## 📂 Proyectos
 
 # Inicio de sesion animado 🚀
-# Descripcion
+[Repositorio](https://github.com/sami0047g/inicio-sesion-animado)
+- **Descripcion**
 -Formulario de inicio de sesión y registro con animaciones fluidas en HTML, CSS y JavaScript. Incluye transiciones dinámicas entre las vistas de login y registro mediante un solo botón.
 
 👉 [Login](https://sami0047g.github.io/inicio-sesion-animado/)
 
-- **[API con Spring Boot]** – [Repositorio](link)  
-  Creación de API REST con endpoints básicos para [describir funcionalidad].  
+
+- # Ejercicio de API para registrar usuarios
+- [Repositorio](link)
+- 
+  Creación de API REST con endpoints básicos para [describir funcionalidad].
 
 
 ---
