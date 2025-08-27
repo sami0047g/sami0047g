@@ -68,5 +68,5 @@ Probada con **Postman**.
 ---
 
 ## 🎯 Objetivo Profesional
-Convertirme en un desarrollador **versátil y confiable**, capaz de adaptarme a cualquier lenguaje o entorno de trabajo. Mi meta es ser un pilar en el crecimiento de las empresas en las que participe, aportando soluciones eficientes, escalables y de impacto real.  
+Convertirme en un desarrollador versátil y confiable, capaz de adaptarme a cualquier lenguaje o entorno de trabajo. Mi meta es ser un pilar en el crecimiento de las empresas en las que participe, aportando soluciones eficientes, escalables y de impacto real.  
 
