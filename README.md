@@ -1,4 +1,4 @@
-  # 📌 Currículum Técnico – [Samir Ahmed Jr Mazzloum Mosquera]
+  # 📌 Currículum Técnico – [Samir Ahmed Jr Mazloum Mosquera]
 
 ---
 
