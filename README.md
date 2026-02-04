@@ -22,22 +22,6 @@ Apasionado por el desarrollo de software con conocimientos en backend, frontend 
 
 ---
 
-## 📚 Formación y Cursos
-
-- **Maestría en Java – Udemy (En curso, finalización prevista: dic 2025)**  
-  Fundamentos, POO, colecciones, excepciones y proyectos prácticos.  
-
-- **Desarrollo Web con JavaScript, TypeScript, jQuery y Node.js – Udemy (En curso)**  
-  Fundamentos de JS, manipulación del DOM, asincronía, desarrollo con TS y Node.js.  
-
-- **Curso completo de C# – Udemy (En curso)**  
-  Fundamentos de C#, POO y manejo de datos.  
-
-- **Fundamentos de C++ – Udemy (En curso)**  
-  Sintaxis básica, estructuras y lógica de programación.
-
----
-
 ## 📂 Proyectos
 
 # 1️⃣ Inicio de sesión animado 🚀
